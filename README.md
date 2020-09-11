@@ -10,7 +10,8 @@ In terms of professional experience, I worked
 * From November 2013 to March 2014 worked as web developer in [First Mallorca](https://www.firstmallorca.com/es). 
 * From April 2014 to January 2015 worked as developer in [OmniAcces](https://www.omniaccess.com/). 
 * From February 2015 to December 2019 I worked as software engineer at [Apsl.net](https://www.apsl.net/). 
-* Since January 2020 I work as team manager at [AvorisTravel](https://www.avoristravel.com/).
+* From January 2020 to August 2020 I worked as team manager at [AvorisTravel](https://www.avoristravel.com/).
+* Since September 2020 I work as a senior backend engineer at [Sherpany](https://www.sherpany.com/en/) 
 
 Throughout my career I gained strong knowledge of HTML5, CSS3, Xhtml 1.x, CSS 2.x, Python, Django, Docker, Javascript, ASP, PHP, Zend Framework 1.x, Redis, Memcache, JQuery, MySQL, PostgreSQL, PLSQL, Flash, AJAX, UML, MVC, XML, webservices, W3C web standards, WAI, OOP, database modeling with CASE tools, Git and Subversion. As well as software life cycle including requirements, analysis and design, implementation, deployment, CI, maintenance, refactoring, TDD and documentation.
 
