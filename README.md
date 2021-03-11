@@ -15,7 +15,7 @@ In terms of professional experience, I worked
 
 Throughout my career I gained strong knowledge of HTML5, CSS3, Xhtml 1.x, CSS 2.x, Python, Django, Docker, Javascript, ASP, PHP, Zend Framework 1.x, Redis, Memcache, JQuery, MySQL, PostgreSQL, PLSQL, Flash, AJAX, UML, MVC, XML, webservices, W3C web standards, WAI, OOP, database modeling with CASE tools, Git and Subversion. As well as software life cycle including requirements, analysis and design, implementation, deployment, CI, maintenance, refactoring, TDD and documentation.
 
-![Andreu Vallbona's github stats](https://github-readme-stats.vercel.app/api?username=avallbona&count_private=true)
+![Andreu Vallbona's github stats](https://github-readme-stats.vercel.app/api?username=avallbona&count_private=true&show_icons=true)
 
 <!--
 **avallbona/avallbona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
