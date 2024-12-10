@@ -10,16 +10,16 @@ Developed and maintained management software solutions, focusing on optimizing b
 **Analyst-Programmer | RG Global Communications** _(April 2001 – June 2003)_\
 Designed and implemented software systems for advertising, graphic design, and internet solutions.
 
-**Analyst-Programmer | AT4** _(June 2003 – November 2011)_\
+**Software Engineer / Tech lead | AT4** _(June 2003 – November 2011)_\
 Led the development of complex software applications, ensuring high-quality deliverables and efficient system performance.
 
-**Head of Development Team, Analyst-Programmer, and Project Manager | Mola.com** _(December 2011 – August 2013)_\
+**Head of Development Team, Software Engineer, and Project Manager | Mola.com** _(December 2011 – August 2013)_\
 Managed the development team, oversaw project planning and execution, and contributed to software architecture design and implementation.
 
 **Web Developer | First Mallorca** _(November 2013 – March 2014)_\
 Created and maintained modern web applications, focusing on usability and performance.
 
-**Developer | OmniAccess** _(April 2014 – January 2015)_\
+**Software Engineer | OmniAccess** _(April 2014 – January 2015)_\
 Developed software solutions tailored to enhance operational efficiency in the telecommunications sector.
 
 **Software Engineer | APSL.net** _(February 2015 – December 2019)_\
