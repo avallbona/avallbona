@@ -1,5 +1,52 @@
 ### Hi there 👋
 
+#### Bachelor’s Degree in Computer Systems (IT Engineering)
+Open University of Catalonia (UOC), Spain
+
+### Professional Experience
+#### Programmer | Corsoft (June 1995 – March 2001)
+Developed and maintained management software solutions, focusing on optimizing business processes.
+
+#### Analyst-Programmer | RG Global Communications (April 2001 – June 2003)
+Designed and implemented software systems for advertising, graphic design, and internet solutions.
+
+#### Analyst-Programmer | AT4 (June 2003 – November 2011)
+Led the development of complex software applications, ensuring high-quality deliverables and efficient system performance.
+
+#### Head of Development Team, Analyst-Programmer, and Project Manager | Mola.com (December 2011 – August 2013)
+Managed the development team, oversaw project planning and execution, and contributed to software architecture design and implementation.
+
+#### Web Developer | First Mallorca (November 2013 – March 2014)
+Created and maintained modern web applications, focusing on usability and performance.
+
+#### Developer | OmniAccess (April 2014 – January 2015)
+Developed software solutions tailored to enhance operational efficiency in the telecommunications sector.
+
+#### Software Engineer | APSL.net (February 2015 – December 2019)
+Delivered robust software applications while driving improvements in code quality, system performance, and scalability.
+
+#### Team Manager | Ávoris Travel (January 2020 – August 2020)
+Directed a development team, coordinated project timelines, and ensured alignment with organizational goals.
+
+#### Senior Backend Engineer | Sherpany (September 2020 – Present)
+Developing and maintaining backend systems, focusing on scalability, security, and seamless integration with other platforms.
+
+### Technical Skills
+Proficient in a wide range of technologies and methodologies, including:
+
+* **Frontend**: HTML5, CSS3, XHTML 1.x, CSS 2.x, JavaScript, JQuery, Flash, AJAX
+* **Backend**: Python, Django, ASP, PHP, Zend Framework 1.x, Node.js
+* **Databases**: MySQL, PostgreSQL, PLSQL, Redis, Memcached
+* **Development Practices**: TDD, CI/CD, software lifecycle management, refactoring, documentation
+* **Frameworks & Tools**: Docker, Git, Subversion, UML, MVC, XML, web services
+* **Standards & Compliance**: W3C web standards, WAI, database modeling with CASE tools
+
+### Key Strengths
+* Comprehensive understanding of software development lifecycle, including requirements analysis, design, implementation, and maintenance.
+* Skilled in team leadership, project management, and cross-functional collaboration.
+* Strong foundation in object-oriented programming (OOP) and agile development practices.
+
+<!--
 Bachelor's degree in Computer System (IT Engineer) by the Open University of Catalonia (UOC), Spain.
 
 In terms of professional experience, I worked 
@@ -14,6 +61,7 @@ In terms of professional experience, I worked
 * Since September 2020 I work as a senior backend engineer at [Sherpany](https://www.sherpany.com/en/) 
 
 Throughout my career I gained strong knowledge of HTML5, CSS3, Xhtml 1.x, CSS 2.x, Python, Django, Docker, Javascript, ASP, PHP, Zend Framework 1.x, Redis, Memcache, JQuery, MySQL, PostgreSQL, PLSQL, Flash, AJAX, UML, MVC, XML, webservices, W3C web standards, WAI, OOP, database modeling with CASE tools, Git and Subversion. As well as software life cycle including requirements, analysis and design, implementation, deployment, CI, maintenance, refactoring, TDD and documentation.
+-->
 
 <!--
 ![Andreu Vallbona's github stats](https://github-readme-stats.vercel.app/api?username=avallbona&count_private=true&show_icons=true)
