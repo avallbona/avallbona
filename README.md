@@ -4,40 +4,42 @@
 Open University of Catalonia (UOC), Spain
 
 ### Professional Experience
-#### Programmer | Corsoft (June 1995 – March 2001)
+**Programmer | Corsoft** _(June 1995 – March 2001)_\
 Developed and maintained management software solutions, focusing on optimizing business processes.
 
-#### Analyst-Programmer | RG Global Communications (April 2001 – June 2003)
+**Analyst-Programmer | RG Global Communications** _(April 2001 – June 2003)_\
 Designed and implemented software systems for advertising, graphic design, and internet solutions.
 
-#### Analyst-Programmer | AT4 (June 2003 – November 2011)
+**Analyst-Programmer | AT4** _(June 2003 – November 2011)_\
 Led the development of complex software applications, ensuring high-quality deliverables and efficient system performance.
 
-#### Head of Development Team, Analyst-Programmer, and Project Manager | Mola.com (December 2011 – August 2013)
+**Head of Development Team, Analyst-Programmer, and Project Manager | Mola.com** _(December 2011 – August 2013)_\
 Managed the development team, oversaw project planning and execution, and contributed to software architecture design and implementation.
 
-#### Web Developer | First Mallorca (November 2013 – March 2014)
+**Web Developer | First Mallorca** _(November 2013 – March 2014)_\
 Created and maintained modern web applications, focusing on usability and performance.
 
-#### Developer | OmniAccess (April 2014 – January 2015)
+**Developer | OmniAccess** _(April 2014 – January 2015)_\
 Developed software solutions tailored to enhance operational efficiency in the telecommunications sector.
 
-#### Software Engineer | APSL.net (February 2015 – December 2019)
+**Software Engineer | APSL.net** _(February 2015 – December 2019)_\
 Delivered robust software applications while driving improvements in code quality, system performance, and scalability.
 
-#### Team Manager | Ávoris Travel (January 2020 – August 2020)
+**Team Manager | Ávoris Travel** _(January 2020 – August 2020)_\
 Directed a development team, coordinated project timelines, and ensured alignment with organizational goals.
 
-#### Senior Backend Engineer | Sherpany (September 2020 – Present)
+**Senior Backend Engineer | Sherpany** _(September 2020 – Present)_\
 Developing and maintaining backend systems, focusing on scalability, security, and seamless integration with other platforms.
 
 ### Technical Skills
 Proficient in a wide range of technologies and methodologies, including:
 
-* **Frontend**: HTML5, CSS3, XHTML 1.x, CSS 2.x, JavaScript, JQuery, Flash, AJAX
-* **Backend**: Python, Django, ASP, PHP, Zend Framework 1.x, Node.js
+* **Frontend**: HTML5, CSS3, XHTML 1.x, CSS 2.x, JavaScript, JQuery, AJAX
+* **Backend**: Python, Django, Go, ASP, PHP
 * **Databases**: MySQL, PostgreSQL, PLSQL, Redis, Memcached
-* **Development Practices**: TDD, CI/CD, software lifecycle management, refactoring, documentation
+* **Testing**: TDD, Django test framework, Pytest, Tox
+* **CI/CD**: Github Actions, Gitlab-ci,
+* **Development Practices**: TDD, CI/CD, Rest API's, software lifecycle management, refactoring, documentation
 * **Frameworks & Tools**: Docker, Git, Subversion, UML, MVC, XML, web services
 * **Standards & Compliance**: W3C web standards, WAI, database modeling with CASE tools
 
